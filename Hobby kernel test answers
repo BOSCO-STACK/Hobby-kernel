@@ -5,6 +5,8 @@ THE PURPOSE OF THE aHEX EDITOR IN KERNEL DEVELOPMENT are Analyzing and Debugging
 VSCode recommended as a text editor:is widely recommended as a text editor for various development tasks, including kernel development, for several reasons:Lightweight Yet Powerful,Cross-Platform Support,Rich Extension Ecosystem,Debugging Capabilities.
 NASM:is popular assembler used for x86 architecture programming.
 SASM:is an integrated development environment for assembly language programming that support and other assemblers.SASM (SimpleASM) and NASM (Netwide Assembler) are both tools related to assembly programming, but they differ significantly in their purpose, functionality, and usage. 
+MinGW (Minimalist GNU for Windows):is an important tool for compiling C programs, particularly for developers working on Windows. such as GCC on Windows(MinGW provides the GCC (GNU Compiler Collection) for Windows, enabling developers to compile C, C++, and other languages on a Windows system.
+TO CONFIGURE MINGW:Configuring MinGW for compiling C programs involves downloading, installing, and setting up the environment properly. Here’s a step-by-step guide:Download MinGW,Install MinGW,Set the Path Environment Variable,Write a Sample C Program,Compile the Program,Run the Compiled Program,Optional: Set Up an IDE,Troubleshooting.
 
 
 
