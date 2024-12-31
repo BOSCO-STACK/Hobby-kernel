@@ -13,8 +13,8 @@ TO CONFIGURE VIRTUALIZATION TOOL LIKE QEMU. are involves setting up the software
 ROLE OF KERNEL IN OPERATING SYSTEM is Resource Management,Process Management,Device Management,Memory Management,File System Management,Security and Access Control,Task management.
 THE SIGNIFICANT OF TESTING TOOLS AND ENVIRONMENT AFTER SETUP is Verifying Correct Configuration,Validating Tool Functionality,Ensuring Environment Compatibility,Identifying Missing Dependencies,Detecting Configuration Drift,Automating Regression Testing,Identifying Missing Dependencies,Facilitating Collaboration.
 MEMORY HIERARCHY:is the organization of different types of memory in a structure that allows for efficient data storage and retrieval. The hierarchy is designed to balance speed, size, and cost, ensuring that the system can process data efficiently while keeping costs manageabl.
-ADDRESSING MODES IN MEMORY MANAGEMENT:is 
-the different ways in which the operands (data or addresses) for an instruction can be specified. They define how the CPU can access data in memory or registers, determining how memory locations are calculated and how operands are retrieved or manipulated during execution. Addressing modes provide flexibility and efficiency in program execution. 
+ADDRESSING MODES IN MEMORY MANAGEMENT:is the different ways in which the operands (data or addresses) for an instruction can be specified. They define how the CPU can access data in memory or registers, determining how memory locations are calculated and how operands are retrieved or manipulated during execution. Addressing modes provide flexibility and efficiency in program execution. 
+
 
 
 
